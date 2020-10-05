@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="nombre">Martín Benavides</string>
+    <string name="telefono">55555555</string>
+    <string name="email">mebenavides@outlook.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+    <string name="pfecha">fecha</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento</string>
+    <string name="descripcion_contacto">Descripción contacto</string>
+    <string name="texto_boton_click">Nuevo</string>
+</resources>
