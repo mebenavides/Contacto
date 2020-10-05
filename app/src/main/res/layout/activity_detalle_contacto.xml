@@ -14,8 +14,7 @@
         android:layout_height="wrap_content"
         android:textStyle="bold"
         android:textSize="30dp"
-        android:text="CONFIRMAR DATOS"
-        android:layout_gravity="center_vertical"/>
+        android:text="CONFIRMAR DATOS" />
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
